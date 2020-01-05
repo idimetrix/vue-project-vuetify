@@ -1,4 +1,4 @@
-# vue-project-iview
+# vue-project-vuetify
 
 ## Project setup
 ```
